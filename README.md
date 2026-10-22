@@ -133,4 +133,4 @@ This is a prototype, so several things are intentionally simple:
 
 Vartalab is an educational practice platform. Weekly contests are practice contests for building skill and confidence and are not an official IELTS examination.
 
-© 2026 Vartalab
+© COPYRIGHT 2026 Vartalab
